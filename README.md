@@ -2,7 +2,9 @@
 
 ## Native Surface A9 to A13
 
-Special Thanks to all the third-party header files and codes.
+Special thanks to SsageParuders android native surface.
+
+and also Thanks to all the third-party header files and codes.
 
 ## HOW TO BUILD:
 1. Download the ANDROID NDK from here: [Android NDK Downloads](https://developer.android.com/ndk/downloads) and extract it.
